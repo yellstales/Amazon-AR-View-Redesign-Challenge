@@ -19,6 +19,17 @@ This Unity project represents the hi-fi digital prototype of the redesign.
 1. Clone this repository
 2. Open the Unity project
 
+# Resources used in digital prototype
+3D Icons: https://assetstore.unity.com/packages/3d/props/tools/low-poly-icon-pack-created-with-fastmesh-asset-293113
+2D Icons: https://iconduck.com/icons/8372/reverse-rotation
+https://uxwing.com/up-down-arrows-icon/
+https://iconduck.com/icons/160342/move-x
+360 Image: https://www.freepik.com/free-photo/shot-panoramic-composition-bedroom_40572734.htm#query=360%20room&position=1&from_view=keyword&track=ais_hybrid&uuid=5ae322f0-da59-49ae-a9b7-8f2e799ba67a
+Furniture: https://assetstore.unity.com/packages/3d/props/furniture/furniture-free-low-poly-asset-pack-by-ithappy-260522
+
+# Acknowledgements
+Special thanks to the teaching team of Introduction to AR/VR course for guidance and feedback
+
 
 
 
